@@ -101,23 +101,6 @@ Working with classroom projects involving sales data analysis, business reportin
 
 *Individual project repositories and dashboard screenshots will be linked here as they are published.*
 
-### 🛡️ InsuraConnect — Insurance Management Portal
-
-**Academic team project | MERN Stack**
-
-An insurance management portal designed to let users browse, purchase, and renew insurance policies and submit claims, with an administrative workflow for reviewing claims.
-
-**Technologies:** MongoDB, Express.js, React, Node.js, JWT
-
-**My involvement:**
-- Worked as a member of the academic project team.
-- Studied the login and registration workflow.
-- Explored React frontend interactions, REST API communication, JWT authentication, and MongoDB storage.
-
-*This is a team project. My description reflects my learning and involvement; it does not claim sole authorship of the application.*
-
----
-
 <!-- ==================== TRAINING ==================== -->
 
 ## 🎓 Education & Professional Training
