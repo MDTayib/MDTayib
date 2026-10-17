@@ -63,16 +63,6 @@ I'm interested in data analytics, business intelligence, data visualization, and
   <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL"/>
 </div>
 
-### Web Development & Other Technologies
-
-<div align="left">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-</div>
-
 ### Areas of Knowledge
 
 - **Python:** Basics, Object-Oriented Programming (OOP), and file handling
@@ -80,7 +70,6 @@ I'm interested in data analytics, business intelligence, data visualization, and
 - **Excel:** Formulas, VLOOKUP, HLOOKUP, PivotTables, and dashboards
 - **Power BI:** Power Query, data transformation, data modelling, DAX, and interactive reports
 - **Oracle SQL:** Queries, CRUD operations, joins, subqueries, grouping, functions, views, and normalization
-- **Web Development:** Academic team project using the MERN stack and JWT authentication
 
 ---
 
