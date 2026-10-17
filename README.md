@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:142B4A,100:1F6FEB&height=180&section=header&text=MDTayib&fontSize=55&fontColor=FFFFFF&fontAlignY=40&desc=DATA%20ANALYTICS%20%7C%20DATA%20SCIENCE%20%7C%20PYTHON&descSize=16&descAlignY=65&animation=fadeIn" width="100%" alt="MDTayib profile banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:142B4A,100:1F6FEB&height=180&section=header&text=MD Tayib&fontSize=55&fontColor=FFFFFF&fontAlignY=40&desc=DATA%20ANALYTICS%20%7C%20DATA%20SCIENCE%20%7C%20PYTHON&descSize=16&descAlignY=65&animation=fadeIn" width="100%" alt="MDTayib profile banner"/>
 
   <br/>
 
