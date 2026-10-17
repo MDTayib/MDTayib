@@ -147,6 +147,9 @@ Training areas include Python, OOP, file handling, NumPy, Pandas, Matplotlib, Or
   <a href="https://www.linkedin.com/in/md-tayib-b67566307/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="mailto:mohammedtayib783@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 
 </div>
 
